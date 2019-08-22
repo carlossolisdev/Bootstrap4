@@ -1,0 +1,14 @@
+Clases usadas:
+
+    - p-3 : padding
+    - m-3 : margin
+    - border : genera un borde
+    - rounded : redondea el borde del elemento
+    - bg-light : cambia el color del fondo del elemento
+    - text-center : centra el texto
+    - form-group : agrupa los elementos de cada campo
+    - form-control : cambia el estilo de las campos de entrada
+    - text-muted : opaca el color del texto
+    - btn : clase para los botones
+    - btn-primary : establece el boton primario (por color)
+    - btn-block : el boton se extiende a lo ancho de la pantalla
